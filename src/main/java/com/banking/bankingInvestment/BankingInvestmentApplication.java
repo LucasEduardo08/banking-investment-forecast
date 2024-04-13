@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BankingInvestmentApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Hello, java");
 		SpringApplication.run(BankingInvestmentApplication.class, args);
 	}
 
